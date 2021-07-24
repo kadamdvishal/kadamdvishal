@@ -156,11 +156,12 @@
 ## Connect with Me ⭐ :
 <table>
   <tr>
-    <th><a href="https://manthan-bhikadiya.wixsite.com/profile" target="_blank"><img src="Images/manthan logo.jpg"  height="64" width="64"></a></th>
+    <th><a href="" target="_blank"><img src="manthan logo.jpg"  height="64" width="64"></a></th>
     <th><a href="mailto: kadam.d.vishal@gmail.com" target="_blank"><img src="Gmail-Logo..svg"  height="64" width="64"></a></th>
     <th><a href="https://www.linkedin.com/in/kadamvishal/" target="_blank"><img src="linkedin-tile.svg"  height="64" width="64"></a></th>
     <th><a href="https://medium.com/@kadam.d.vishal/" target="_blank"><img src="medium.svg"  height="64" width="64"></a></th>
     <th><a href="https://www.instagram.com/vishalkadam04/" target="_blank"><img src="instagram.png"  height="64" width="64"></a></th>
+    <th><a href="https://twitter.com/Vishalkadam05" target="_blank"><img src="twitter.png"  height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Portfolio</th>
@@ -168,6 +169,7 @@
     <th>Linkedin</th> 
     <th>Medium</th>
     <th>Instagram</th>
+    <th>Twitter</th>
   </tr>
 </table><br>
 
