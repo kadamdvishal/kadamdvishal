@@ -162,6 +162,7 @@
     <th><a href="https://medium.com/@kadam.d.vishal/" target="_blank"><img src="medium.svg"  height="64" width="64"></a></th>
     <th><a href="https://www.instagram.com/vishalkadam04/" target="_blank"><img src="instagram.png"  height="64" width="64"></a></th>
     <th><a href="https://twitter.com/Vishalkadam05" target="_blank"><img src="twitter.png"  height="64" width="64"></a></th>
+    <th><a href="https://www.facebook.com/kadamdvishal" target="_blank"><img src="facebook.png"  height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Portfolio</th>
@@ -170,6 +171,7 @@
     <th>Medium</th>
     <th>Instagram</th>
     <th>Twitter</th>
+     <th>Facebook</th>
   </tr>
 </table><br>
 
