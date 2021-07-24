@@ -156,7 +156,7 @@
 ## Connect with Me ⭐ :
 <table>
   <tr>
-    <th><a href="" target="_blank"><img src="manthan logo.jpg"  height="64" width="64"></a></th>
+    <th><a href="" target="_blank"><img src=".jpg"  height="64" width="64"></a></th>
     <th><a href="mailto: kadam.d.vishal@gmail.com" target="_blank"><img src="Gmail-Logo..svg"  height="64" width="64"></a></th>
     <th><a href="https://www.linkedin.com/in/kadamvishal/" target="_blank"><img src="linkedin-tile.svg"  height="64" width="64"></a></th>
     <th><a href="https://medium.com/@kadam.d.vishal/" target="_blank"><img src="medium.svg"  height="64" width="64"></a></th>
