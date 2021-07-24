@@ -12,9 +12,9 @@
 ### Languages ⭐ :
 <table>
   <tr>
-    <th><a href="https://www.python.org/"><img src="Images/python-icon.svg"></a></th>
-    <th><a href="https://dart.dev/" ><img src="Images/dart.svg"></a></th>
-     <th><a href="https://docs.julialang.org/en/v1/"><img src="Images/julia-language-icon.svg" height="64" width="64"></a></th>
+    <th><a href="https://www.python.org/"><img src="python-icon.svg"></a></th>
+    <th><a href="https://dart.dev/" ><img src="dart.svg"></a></th>
+     <th><a href="https://docs.julialang.org/en/v1/"><img src="julia-language-icon.svg" height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Python</th>
@@ -26,14 +26,14 @@
 ### Frameworks ⭐ :
 <table>
   <tr>
-    <th><a href="https://www.tensorflow.org/" target="_blank"><img src="Images/tensorflow-icon.svg" height="64" width="64"></a></th>
-    <th><a href="https://pytorch.org/tutorials/" target="_blank"><img src="Images/pytorch-icon.svg" height="64" width="64"></a></th> 
-    <th><a href="https://pandas.pydata.org/" target="_blank"><img src="Images/pandas2.png" height="64" width="68"></a></th>
-    <th><a href="https://keras.io/" target="_blank"><img src="Images/keras.svg" height="64" width="64"></a></th>
-    <th><a href="https://scikit-learn.org/" target="_blank"><img src="Images/scikit-learn2.svg" height="64" width="64"></a></th>
-    <th><a href="https://numpy.org/" target="_blank"><img src="Images/numpy-icon.svg" height="64" width="64"></a></th>
-    <th><a href="https://matplotlib.org/" target="_blank"><img src="Images/Matplotlib_icon.svg" height="64" width="64"></a></th>
-     <th><a href="https://seaborn.pydata.org/" target="_blank"><img src="Images/seaborn2.svg" height="64" width="64"></a></th>
+    <th><a href="https://www.tensorflow.org/" target="_blank"><img src="tensorflow-icon.svg" height="64" width="64"></a></th>
+    <th><a href="https://pytorch.org/tutorials/" target="_blank"><img src="pytorch-icon.svg" height="64" width="64"></a></th> 
+    <th><a href="https://pandas.pydata.org/" target="_blank"><img src="pandas2.png" height="64" width="68"></a></th>
+    <th><a href="https://keras.io/" target="_blank"><img src="keras.svg" height="64" width="64"></a></th>
+    <th><a href="https://scikit-learn.org/" target="_blank"><img src="scikit-learn2.svg" height="64" width="64"></a></th>
+    <th><a href="https://numpy.org/" target="_blank"><img src="numpy-icon.svg" height="64" width="64"></a></th>
+    <th><a href="https://matplotlib.org/" target="_blank"><img src="Matplotlib_icon.svg" height="64" width="64"></a></th>
+     <th><a href="https://seaborn.pydata.org/" target="_blank"><img src="seaborn2.svg" height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Tensorflow</th>
@@ -48,10 +48,10 @@
   </table><br>
   <table>
   <tr>
-    <th><a href="https://flutter.dev/" target="_blank"><img src="Images/flutter.svg" height="64" width="64"></a></th>
+    <th><a href="https://flutter.dev/" target="_blank"><img src="flutter.svg" height="64" width="64"></a></th>
     <th><a href="https://docs.opencv.org/master/"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" height="64" width="64"></a></th>
-    <th><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="Images/flask.png" height="64" width="68"></a></th>
-    <th><a href="https://www.scipy.org/docs.html" target="_blank"><img src="Images/scipy.png" height="64" width="64"></a></th>
+    <th><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="flask.png" height="64" width="68"></a></th>
+    <th><a href="https://www.scipy.org/docs.html" target="_blank"><img src="scipy.png" height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Flutter</th>
@@ -64,13 +64,13 @@
 ### Tools & IDE ⭐ :
 <table>
   <tr>
-    <th><a href="https://jupyter.org/" target="_blank"><img src="Images/jupyter-icon.svg" height="64" width="64"></a></th>
-    <th><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="Images/pycharm.svg" height="64" width="64"></a></th> 
+    <th><a href="https://jupyter.org/" target="_blank"><img src="jupyter-icon.svg" height="64" width="64"></a></th>
+    <th><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="pycharm.svg" height="64" width="64"></a></th> 
     <th><a href="https://code.visualstudio.com/download" target="_blank"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="64" width="64"></a></th>
-    <th><a href="https://www.tableau.com/" target="_blank"><img src="Images/tableau.svg" height="64" width="64"></a></th>
-    <th><a href="https://colab.research.google.com/" target="_blank"><img src="Images/google-colab.png" height="64" width="64"></a></th>
-    <th><a href="https://www.anaconda.com/" target="_blank"><img src="Images/anaconda.png" height="64" width="64"></a></th>
-    <th><a href="https://www.paperspace.com/" target="_blank"><img src="Images/paperspace2.jpg" height="64" width="64"></a></th>
+    <th><a href="https://www.tableau.com/" target="_blank"><img src="tableau.svg" height="64" width="64"></a></th>
+    <th><a href="https://colab.research.google.com/" target="_blank"><img src="google-colab.png" height="64" width="64"></a></th>
+    <th><a href="https://www.anaconda.com/" target="_blank"><img src="anaconda.png" height="64" width="64"></a></th>
+    <th><a href="https://www.paperspace.com/" target="_blank"><img src="paperspace2.jpg" height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Jupyter</th>
@@ -118,7 +118,7 @@
 <br>
 
 ## Repository 🔥:
-<div>
+<!--<div>
 <a href="https://github.com/manthan89-py/plant-disease-detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadamdvishal&repo=plant-disease-detection&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
@@ -137,7 +137,7 @@
 <a href="https://github.com/manthan89-py/OpenCV-Python-Tutorials">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadamdvishal&repo=OpenCV-Python-Tutorials&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
-<br>
+<br> 
 </div>
 
 <div>
@@ -149,7 +149,7 @@
 <a href="https://github.com/manthan89-py/Heart-Disease-Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadamdvishal&repo=Heart-Disease-Prediction&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
-<br>
+<br> -->
 </div><br>
 
 
