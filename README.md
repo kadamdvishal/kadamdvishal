@@ -111,31 +111,31 @@
 <br>
 
 ## Github Stats 📊 :
-<img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=dbf6e9&icon_color=c31432&text_color=64dfdf&bg_color=240b36">
+<img src="https://github-readme-stats.vercel.app/api?username=kadamdvishal&&show_icons=true&title_color=dbf6e9&icon_color=c31432&text_color=64dfdf&bg_color=240b36">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan89-py&layout=compact&title_color=eac8af&icon_color=9f5f80&text_color=feffde&bg_color=132743)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadamdvishal&layout=compact&title_color=eac8af&icon_color=9f5f80&text_color=feffde&bg_color=132743)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 ## Repository 🔥:
 <div>
 <a href="https://github.com/manthan89-py/plant-disease-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=plant-disease-detection&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadamdvishal&repo=plant-disease-detection&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 &nbsp &nbsp
 <a href="https://github.com/manthan89-py/InfyTq-Coding-Questions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=InfyTq-Coding-Questions&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadamdvishal&repo=InfyTq-Coding-Questions&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 </div>
 
 <div>
 <br>
 <a href="https://github.com/manthan89-py/Image-Creation-Using-GANs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Image-Creation-Using-GANs&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadamdvishal&repo=Image-Creation-Using-GANs&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 &nbsp &nbsp
 <a href="https://github.com/manthan89-py/OpenCV-Python-Tutorials">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=OpenCV-Python-Tutorials&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadamdvishal&repo=OpenCV-Python-Tutorials&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 <br>
 </div>
@@ -143,11 +143,11 @@
 <div>
  <br>
 <a href="https://github.com/manthan89-py/Fake_News_detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Fake_News_detection&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadamdvishal&repo=Fake_News_detection&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 &nbsp &nbsp
 <a href="https://github.com/manthan89-py/Heart-Disease-Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manthan89-py&repo=Heart-Disease-Prediction&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadamdvishal&repo=Heart-Disease-Prediction&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 <br>
 </div><br>
@@ -157,10 +157,10 @@
 <table>
   <tr>
     <th><a href="https://manthan-bhikadiya.wixsite.com/profile" target="_blank"><img src="Images/manthan logo.jpg"  height="64" width="64"></a></th>
-    <th><a href="mailto: bhikadiyamanthan@gmail.com" target="_blank"><img src="Images/Gmail-Logo..svg"  height="64" width="64"></a></th>
-    <th><a href="https://www.linkedin.com/in/manthanbhikadiya" target="_blank"><img src="Images/linkedin-tile.svg"  height="64" width="64"></a></th>
-    <th><a href="https://manthan-bhikadiya.medium.com/" target="_blank"><img src="Images/medium.svg"  height="64" width="64"></a></th>
-    <th><a href="https://www.instagram.com/manthan.bhikadiya" target="_blank"><img src="Images/instagram.png"  height="64" width="64"></a></th>
+    <th><a href="mailto: kadam.d.vishal@gmail.com" target="_blank"><img src="Gmail-Logo..svg"  height="64" width="64"></a></th>
+    <th><a href="https://www.linkedin.com/in/kadamvishal/" target="_blank"><img src="linkedin-tile.svg"  height="64" width="64"></a></th>
+    <th><a href="https://medium.com/@kadam.d.vishal/" target="_blank"><img src="medium.svg"  height="64" width="64"></a></th>
+    <th><a href="https://www.instagram.com/vishalkadam04/" target="_blank"><img src="instagram.png"  height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Portfolio</th>
@@ -182,11 +182,5 @@
 
 ### Visitor Counter ❤️
 <p align="left"> 
-  <img src="https://profile-counter.glitch.me/manthan89-py/count.svg" />
+  <img src="https://profile-counter.glitch.me/kadamdvishal/count.svg" />
 </p>
-
-
-
-
-
-
