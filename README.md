@@ -113,7 +113,7 @@
 ## Github Stats 📊 :
 <img src="https://github-readme-stats.vercel.app/api?username=kadamdvishal&&show_icons=true&title_color=dbf6e9&icon_color=c31432&text_color=64dfdf&bg_color=240b36">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadamdvishal&layout=compact&title_color=eac8af&icon_color=9f5f80&text_color=feffde&bg_color=132743)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadamdvishal&layout=compact&title_color=eac8af&icon_color=9f5f80&text_color=feffde&bg_color=132743)]<!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <br>
 
