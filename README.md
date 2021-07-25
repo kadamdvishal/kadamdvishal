@@ -163,7 +163,7 @@
     <th><a href="https://www.instagram.com/vishalkadam04/" target="_blank"><img src="instagram.png"  height="64" width="64"></a></th>
     <th><a href="https://twitter.com/Vishalkadam05" target="_blank"><img src="twitter.png"  height="64" width="64"></a></th>
     <th><a href="https://www.facebook.com/kadamdvishal" target="_blank"><img src="facbook1.jfif"  height="64" width="64"></a></th>
-    <th><a href="live:kadam.d.vishal" target="_blank"><img src="skype.png"  height="64" width="64"></a></th>
+    <th><!--<a href="kadam.d.vishal" target="_blank">--><img src="skype.png"  height="64" width="64"></a></th>
   </tr>
   <tr>
     <th>Portfolio</th>
