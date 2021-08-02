@@ -157,6 +157,7 @@
     <th><a href="https://kadamdvishal.wixsite.com/portfolio" target="_blank"><img src="profile.jfif"  height="64" width="64"></a></th>
     <th><a href="mailto: kadam.d.vishal@gmail.com" target="_blank"><img src="Gmail-Logo..svg"  height="64" width="64"></a></th>
     <th><a href="https://www.linkedin.com/in/kadamvishal/" target="_blank"><img src="linkedin-tile.svg"  height="64" width="64"></a></th>
+    <th><a href="https://gitlab.com/kadam.d.vishal" target="_blank"><img src="gitlab.png"  height="64" width="64"></a></th>
     <th><a href="https://medium.com/@kadam.d.vishal/" target="_blank"><img src="medium.svg"  height="64" width="64"></a></th>
     <th><a href="https://www.instagram.com/vishalkadam04/" target="_blank"><img src="instagram.png"  height="64" width="64"></a></th>
     <th><a href="https://twitter.com/Vishalkadam05" target="_blank"><img src="twitter.png"  height="64" width="64"></a></th>
@@ -167,6 +168,7 @@
     <th>Portfolio</th>
     <th>Gmail</th>
     <th>Linkedin</th> 
+   <th>GitLab</th> 
     <th>Medium</th>
     <th>Instagram</th>
     <th>Twitter</th>
