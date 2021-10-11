@@ -167,7 +167,6 @@
     <th>Linkedin</th> 
    <th>GitLab</th> 
     <th>Medium</th>
-  
   </tr>
 </table><br>
 <table>
