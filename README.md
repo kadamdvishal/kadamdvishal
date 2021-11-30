@@ -177,8 +177,6 @@
     <th><!--<a href="kadam.d.vishal" target="_blank">--><img src="skype.png"  height="64" width="64"></a></th>
     </tr>
 
-
-
   <tr>
      <th>Instagram</th>
     <th>Twitter</th>
@@ -186,11 +184,6 @@
      <th>Skype</th>
        </tr>
 </table><br>
-
-
-
-
-
      
 ## NOTE ✍️ :
 - If You Like Any of My Repo. Give It ⭐. It Will Motivate Me. <br>
