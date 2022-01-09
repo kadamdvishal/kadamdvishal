@@ -8,8 +8,6 @@
 - 🌟 In My Github You Can Find <b>Projects</b> Related to <b>Machine learning and Deep learning.</b><br>
 
 ## Tools and Technology :
-
-
 ### Languages ⭐ :
 <table>
   <tr>
