@@ -126,8 +126,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadamdvishal&repo=InfyTq-Coding-Questions&title_color=f0c38e&icon_color=f88f01&text_color=fff3e6&bg_color=000000" />
 </a>
 </div>
-
-
 <div>
 <br>
 <a href="https://github.com/manthan89-py/Image-Creation-Using-GANs">
