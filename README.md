@@ -53,6 +53,7 @@
     <th><a href="https://www.scipy.org/docs.html" target="_blank"><img src="scipy.png" height="64" width="64"></a></th>
   </tr>
   <tr>
+    
     <th>Flutter</th>
     <th>OpenCV</th>
     <th>Flask</th>
